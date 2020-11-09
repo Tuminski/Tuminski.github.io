@@ -5,6 +5,7 @@
     --purple:#44318D;
     --lightpurple: #813772;
     --gray:#A4b3b6;
+    --red: tomato;
 
 }
 
@@ -16,7 +17,7 @@ header{
     display: flex;
     justify-content: space-between;
     background-color: var(--darkpurple);
-    color: var(--gray);
+    color: var(--red);
 }
 header h1{
     font-size: 32px;
